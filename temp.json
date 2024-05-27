@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "user": "krishna",
+    "firstname": "krishnaprasanth",
+    "lastname": "d v",
+    "age": 24
+  },
+  {
+    "id": 2,
+    "user": "siva",
+    "firstname": "sivakumar",
+    "lastname": "k",
+    "age": 19
+  },
+  {
+    "id": 3,
+    "user": "kumar.senthil",
+    "firstname": "senthil kumar",
+    "lastname": "s",
+    "age": 21
+  },
+  {
+    "id": 4,
+    "user": "sprasath",
+    "firstname": "sri prasath",
+    "lastname": "m",
+    "age": 17
+  }
+]
